@@ -2,19 +2,15 @@
   <img src="./assets/animated_waves.svg" alt="Aman Karn Header" width="100%" />
 </p>
 
-<p >
-  Humble enough to know there's always more to learn, hungry enough to learn from every opportunity<br>
+Humble enough to know there's always more to learn, hungry enough to learn from every opportunity
 
-  I build with the hope that the software I create today makes someone's tomorrow a little better. My work spans machine learning, backend systems, and full-stack applications, with a focus on solving meaningful problems through technology. If you would like to know more about me, here is my resume: 
-<br>
-   [![View Resume](https://img.shields.io/badge/View%20Resume-000000?style=flat-square&logoColor=white)](https://raw.githubusercontent.com/AmanKarn-00/AmanKarn-00/main/assets/Aman_Karn_Resume.pdf)
-</p>
+I build with the hope that the software I create today makes someone's tomorrow a little better. My work spans machine learning, backend systems, and full-stack applications, with a focus on solving meaningful problems through technology. If you would like to know more about me, here is my resume: 
 
-<p>
-  [![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=karnaman2007@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_karn.aman)
-  [![Kaggle](https://img.shields.io/badge/Kaggle-000000?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/amankarn07)
-</p>
+[![View Resume](https://img.shields.io/badge/View%20Resume-000000?style=flat-square&logoColor=white)](https://raw.githubusercontent.com/AmanKarn-00/AmanKarn-00/main/assets/Aman_Karn_Resume.pdf)
+
+[![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=karnaman2007@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_karn.aman)
+[![Kaggle](https://img.shields.io/badge/Kaggle-000000?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/amankarn07)
 
 
 
