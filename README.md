@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="animated-waves.svg" alt="Aman Karn Header" width="100%" />
+  <img src="./assets/animated_waves.svg" alt="Aman Karn Header" width="100%" />
 </p>
 
 <p >
