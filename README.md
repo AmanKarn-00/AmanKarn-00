@@ -7,22 +7,13 @@
 
   I build with the hope that the software I create today makes someone's tomorrow a little better. My work spans machine learning, backend systems, and full-stack applications, with a focus on solving meaningful problems through technology. If you would like to know more about me, here is my resume: 
 <br>
-   <a href="./assets/Aman_Karn_Resume.pdf" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/View%20Resume-000000?style=flat-square&logoColor=white" alt="View Resume" />
-  </a>
-  
+   [![View Resume](https://img.shields.io/badge/View%20Resume-000000?style=flat-square&logoColor=white)](https://raw.githubusercontent.com/AmanKarn-00/AmanKarn-00/main/assets/Aman_Karn_Resume.pdf)
 </p>
 
 <p>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=karnaman2007@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://instagram.com/_karn.aman" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://kaggle.com/amankarn07" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Kaggle-000000?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"/>
-  </a>
+  [![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=karnaman2007@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_karn.aman)
+  [![Kaggle](https://img.shields.io/badge/Kaggle-000000?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/amankarn07)
 </p>
 
 
