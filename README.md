@@ -1,10 +1,13 @@
-<h1> Hello, I am Aman Karn </h1>
+<p align="center">
+  <img src="animated-waves.svg" alt="Aman Karn Header" width="100%" />
+</p>
+
 <p >
   Humble enough to know there's always more to learn, hungry enough to learn from every opportunity<br>
 
   I build with the hope that the software I create today makes someone's tomorrow a little better. My work spans machine learning, backend systems, and full-stack applications, with a focus on solving meaningful problems through technology. If you would like to know more about me, here is my resume: 
 <br>
-   <a href="./assets/Aman_Karn_Resume.pdf">
+   <a href="./assets/Aman_Karn_Resume.pdf" target="_blank" rel="noopener noreferrer">
     View Resume
   </a>
   
