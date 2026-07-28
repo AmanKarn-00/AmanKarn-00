@@ -8,17 +8,13 @@ I build with the hope that the software I create today makes someone's tomorrow 
 
 <a href="./assets/Aman_Karn_Resume.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View%20Resume-000000?style=flat-square&logoColor=white" alt="View Resume" /></a>
 
-<br>
-
 ### You can find me on
 
 [![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=karnaman2007@gmail.com)&nbsp;&nbsp;&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_karn.aman)&nbsp;&nbsp;&nbsp;
 [![Kaggle](https://img.shields.io/badge/Kaggle-000000?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/amankarn07)
 
-<br>
-<br>
-<br>
+
 
 ### I am familiar with
 
